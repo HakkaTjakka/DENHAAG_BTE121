@@ -1,0 +1,2 @@
+#Tue Nov 03 01:03:43 CET 2020
+shadowDistance=240.0
